@@ -1,7 +1,7 @@
 # Fantastic-Four
 **Members:** 
 - Morgan Vaughan
-- Tanya Garza
+- Tanya Garza Saenz
 - Rayshma Razi
 - Hasini Bobbala
 
