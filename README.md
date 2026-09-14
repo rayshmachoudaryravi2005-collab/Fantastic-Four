@@ -11,3 +11,11 @@
 
 **Trello:** https://trello.com/b/XEEyz3bU/fantastic-four
 
+## GitHub Practice
+
+This repository is being used to practice GitHub and GitHub Desktop.
+GitHub workflow practice completed by Rayshma. No newline at end of file
+GitHub workflow practice completed by Rayshma.
+
+Team: Fantastic-Four
+Project: RemindMe No newline at end of file
