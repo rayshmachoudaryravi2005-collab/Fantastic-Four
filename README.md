@@ -14,8 +14,13 @@
 ## GitHub Practice
 
 This repository is being used to practice GitHub and GitHub Desktop.
-GitHub workflow practice completed by Rayshma. No newline at end of file
+
 GitHub workflow practice completed by Rayshma.
 
 Team: Fantastic-Four
-Project: RemindMe No newline at end of file
+
+Project: RemindMe
+
+### Branch Practice
+
+This change was made on the rayshma-practice branch.
