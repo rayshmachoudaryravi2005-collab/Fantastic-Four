@@ -22,3 +22,4 @@ Project: RemindMe
 ### Branch Practice
 
 This change was made on the rayshma-practice branch.
+Practiced creating branches and merging changes using GitHub Desktop.
